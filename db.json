@@ -1,12 +1,12 @@
 {
   "posts": [
     {
-      "id":"1,
+      "id":1,
      "name":"Aditya",
       "email":"aditya@gmail.com"
     },
      {
-      "id":"2,
+      "id":2,
      "name":"AdityaBr11",
       "email":"adi@gmail.com"
     }
